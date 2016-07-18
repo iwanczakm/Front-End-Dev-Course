@@ -22,7 +22,7 @@
     </head>
     <body>
         <img src="avatar.jpg" alt="avatar" width="500px" height="auto">
-        <h1>Iwañczak Ma³gorzata Anna</h1>
+        <h1>IwaÃ±czak MaÂ³gorzata Anna</h1>
         <h2> Katowice Poland </h2>
         <p>My biography </p>
         <h3>Education</h3>
@@ -47,5 +47,5 @@
             <iframe width="560" height="315"src="https://youtu.be/R45HcYA8uRA" frameborder="0" allowfullscreen></iframe>
             <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://soundcloud.com/melodifestivalen-database-greece/heroes-mans-zelmerlow" frameborder="0" allowfullscreen ></iframe>
            <iframe width="600px" height="600px" scrolling="no" frameborder="no" src="https://www.instagram.com/p/BG4vKsUx76n/?taken-by=ilovenorway" frameborder="0" allowtransparency="true"></iframe>
-    <body>
+    </body>
 </html>
